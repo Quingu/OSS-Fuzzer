@@ -11,7 +11,7 @@ init(autoreset=True)
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- INTELIGÊNCIA EMBUTIDA (Baseada na sua recon) ---
-# Extraído de api.js e resposta_js_link_extractor_generic.txt
+# Extraído de js_link_extractor_generic.txt
 DEFAULT_VALUES = [
     # Genéricos de Upload
     "common", "image", "file", "video", "audio", "media", "doc", "excel",
